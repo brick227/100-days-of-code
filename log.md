@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 1: April 4, 2026
+
+**Today's Progress**: Started learning Python. Set up a structured 100-day Python curriculum covering foundations, OOP, standard library, APIs, and projects.
+
+**Thoughts**: Worked through variables, types, print/input, and string methods. Python's syntax is clean and readable — excited to keep going.
+
+**Link(s) to work**: [`python/exercises/day01_basics.py`](python/exercises/day01_basics.py)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
